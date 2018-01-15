@@ -43,4 +43,7 @@ macx {
     ICON = macx/app_icon.icns
 }
 
-DISTFILES +=
+DISTFILES += \
+    qml/objects/Ball.qml \
+    qml/objects/Wall.qml \
+    qml/objects/Player.qml
